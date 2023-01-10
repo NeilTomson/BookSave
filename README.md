@@ -17,6 +17,6 @@ the server side part:
 
 2 type npm install
 
-3 open CMD and type: nodemon server.js
+3 open CMD and type: npm start
 
 4 the CMD see the port what use the app
