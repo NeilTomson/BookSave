@@ -9,6 +9,8 @@ the client side part:
 
 3 type npm install
 
+4 type ng serve -o
+
 the server side part:
 
 1 go to project folder
